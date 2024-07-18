@@ -7,7 +7,7 @@ import useStore from '../../store/dataStore';
 const handleActionClick = (action, id, deleteMember) => {
   switch (action) {
     case 'view':
-      window.location.href = `http://localhost:3000/members/profile/${id}`;
+      window.location.href = `../profile/${id}`;
       break;
     case 'delete':
       if (window.confirm('Are you sure you want to delete this member?')) {
