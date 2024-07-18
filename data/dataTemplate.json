@@ -1,0 +1,22 @@
+{
+    "id": "uuid",
+    "members": [
+        {
+            "id": "uuid",
+            "first_name": "",
+            "last_name": "",
+            "membership_date": "",
+            "membership_fee": "",
+            "records": {
+                "dividends": [{"month": "", "year": "", "value": ""}],
+                "interests": [{"month": "", "year": "", "value": ""}],
+                "loans": [{"month": "", "year": "", "value": "", "terms": "", "rate": ""}],
+                "payments": [{"month": "", "year": "", "value": ""}],
+                "savings": [{"month": "", "year": "", "value": ""}],
+                "shares": [{"month": "", "year": "", "value": ""}]
+            }
+        }
+    ],
+    "modified_by": "",
+    "modified_date": ""
+}

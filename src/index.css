@@ -1,0 +1,25 @@
+tr,
+td,
+th {
+    font-size: 1rem !important;
+}
+
+[data-field="period"],
+[data-field="actions"] {
+    /* Your CSS styles here */
+    text-align: end !important;
+    /* Example style */
+}
+
+.MuiDataGrid-cell:focus,
+.MuiDataGrid-cell:focus-within {
+    outline: none !important;
+}
+
+.highlight {
+    background-color: #ff000022 !important;
+}
+
+body div {
+    color: black !important;
+}

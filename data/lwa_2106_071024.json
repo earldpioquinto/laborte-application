@@ -1,0 +1,37 @@
+{
+    "id": "uuid",
+    "members": [
+        {
+            "id": "1",
+            "first_name": "Alilin",
+            "last_name": "Jenny Lyn",
+            "membership_date": "26-07-2021",
+            "membership_fee": "10.00",
+            "records": {
+                "dividends": [{"month": "", "year": "", "value": ""}],
+                "interests": [{"month": "", "year": "", "value": ""}],
+                "loans": [{"month": "", "year": "", "value": "", "terms": "", "rate": ""}],
+                "payments": [{"month": "", "year": "", "value": ""}],
+                "savings": [{"month": "", "year": "", "value": ""}],
+                "shares": [{"month": "", "year": "", "value": ""}]
+            }
+        },
+        {
+            "id": "2",
+            "first_name": "Alilin",
+            "last_name": "Jinky",
+            "membership_date": "08-06-2021",
+            "membership_fee": "10.00",
+            "records": {
+                "dividends": [{"month": "", "year": "", "value": ""}],
+                "interests": [{"month": "", "year": "", "value": ""}],
+                "loans": [{"month": "", "year": "", "value": "", "terms": "", "rate": ""}],
+                "payments": [{"month": "", "year": "", "value": ""}],
+                "savings": [{"month": "", "year": "", "value": ""}],
+                "shares": [{"month": "", "year": "", "value": ""}]
+            }
+        }
+    ],
+    "modified_by": "",
+    "modified_date": ""
+}

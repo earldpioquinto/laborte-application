@@ -1,0 +1,5 @@
+save changes in the ui to the file.
+store data in the local storage.
+retrieve files from the local storage first.
+
+create json structure for all records
